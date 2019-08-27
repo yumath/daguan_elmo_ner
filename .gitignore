@@ -1,0 +1,5 @@
+
+output/weights.hdf5
+.DS_Store
+ckpt/checkpoint
+maps.pkl

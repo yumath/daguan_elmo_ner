@@ -1,0 +1,12 @@
+{
+    "num_tags": 13,
+    "lstm_dim": 256,
+    "batch_size": 64,
+    "clip": 5.0,
+    "dropout_keep": 0.5,
+    "optimizer": "adam",
+    "lr": 0.001,
+    "tag_schema": "iobes",
+    "pre_emb": true,
+    "lower": true
+}
